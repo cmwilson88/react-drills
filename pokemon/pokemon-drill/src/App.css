@@ -1,0 +1,13 @@
+.App {
+
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	
+  text-align: center;
+  width: 75vw;
+  min-height: 100vh;
+  margin: 0 auto;
+
+  background-color: lightgreen;
+}
